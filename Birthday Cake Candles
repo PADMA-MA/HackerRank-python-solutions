@@ -3,9 +3,6 @@ import os
 import random
 import re
 import sys
-
-
-
 def birthdayCakeCandles(candles):
     t=max(candles)
     count=0
